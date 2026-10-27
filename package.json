@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.4.0",
-    "@eazo/sdk": "0.22.8",
+    "@eazo/sdk": "https://github.com/wakenmeng/eazo-sdk/releases/download/v0.23.1-analytics.1/eazo-sdk-0.23.1-analytics.1.tgz",
     "@modelcontextprotocol/sdk": "^1.29.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
